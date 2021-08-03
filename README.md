@@ -1,4 +1,5 @@
 This is mainly base on mmdetection
+
 screen -dmS xxx
 screen -ls
 screen -r xxx
